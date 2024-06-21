@@ -1,0 +1,11 @@
+give below to check commits done with this commits you carecover deleted files in branch that is deleted
+
+git reflog
+
+
+and then 
+
+git checkout -b recovered-branch <commit-hash>
+
+
+git checkout -b recovered-branch2 3d014d2
